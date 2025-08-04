@@ -24,4 +24,4 @@ My main languages are:
 
 ### Check out this shader
 
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/33VSzW?gui=false&t=10&paused=false&muted=true" allowfullscreen></iframe>
+[![Sun shader](https://www.shadertoy.com/media/shaders/33VSzW.jpg)](https://www.shadertoy.com/view/33VSzW)
