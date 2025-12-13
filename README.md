@@ -21,7 +21,3 @@ My main languages are:
 
 ## My language stats
 ![My language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siljamdev&theme=dracula&layout=compact&langs_count=10)
-
-### Check out this shader
-
-[![Sun shader](https://www.shadertoy.com/media/shaders/33VSzW.jpg)](https://www.shadertoy.com/view/33VSzW)
