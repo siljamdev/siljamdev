@@ -18,6 +18,3 @@ My main languages are:
 - [FragRoom](https://github.com/siljamdev/FragRoom): Desktop application to run GLSL shaders
 - [AshLib](https://github.com/siljamdev/AshLib): Dotnet library with many features, including AshFiles, a very compact byte format for data structures
 - [AshConsoleGraphics](https://github.com/siljamdev/AshConsoleGraphics): Dotnet library that lets you create amazing graphics and interactive screens in the terminal
-
-## My language stats
-![My language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siljamdev&theme=dracula&layout=compact&langs_count=10)
