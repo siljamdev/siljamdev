@@ -1,5 +1,5 @@
 ## My skills
-[![Langs](https://skillicons.dev/icons?i=cs,dotnet,c,html,css,js,java,arduino,windows,git,github,md)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=cs,dotnet,c,html,css,js,java,windows,powershell,ubuntu,git,github,md,arduino,discord,)](https://skillicons.dev)
 
 
 Hello! I am Siljam, a developer that codes projects for fun.  
