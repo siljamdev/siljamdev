@@ -1,7 +1,6 @@
 ## My skills
 [![Langs](https://skillicons.dev/icons?i=cs,dotnet,c,html,css,js,java,windows,powershell,ubuntu,git,github,md,arduino,discord,)](https://skillicons.dev)
 
-
 Hello! I am Siljam, a developer that codes projects for fun.  
 My main languages are:
 - C#
@@ -9,7 +8,6 @@ My main languages are:
 - JavaScript
 - GLSL
 - Java
-
 
 ## Some of my projects
 - [Tebas](https://github.com/siljamdev/Tebas): Project manager with a custom scripting language. Aimed at speeding development times. I use it in all my projects!
