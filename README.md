@@ -10,7 +10,7 @@ My main languages are:
 - Java
 
 ## Some of my projects
-- [Tebas](https://github.com/siljamdev/Tebas): Project manager with a custom scripting language. Aimed at speeding development times. I use it in all my projects!
+- [Tebas](https://github.com/siljamdev/Tebas): Project manager based on TableScript scripting language. Aimed at speeding development times. I use it in all my projects!
 - [AshRadio](https://github.com/siljamdev/AshRadio): A lightweight music player that runs entirely on the terminal
 - [Unisim](https://github.com/siljamdev/Unisim): 2d Particle simulator
 - [FragRoom](https://github.com/siljamdev/FragRoom): Desktop application to run GLSL shaders
